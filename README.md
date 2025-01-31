@@ -1,7 +1,5 @@
 ### Advanced Malware Analysis & Detection with ClamAV & YARA on RHEL 9  
 
-A project focused on enhancing security by implementing real-time malware scanning and custom YARA rules on RHEL 9.  
-
 ## Project Overview  
 This project focuses on real-time malware scanning, automated threat detection, and forensic analysis in a RHEL 9 environment. I configured ClamAV Daemon for on-access scanning, implemented custom YARA rules to detect malicious patterns, and automated scheduled security scans using cron jobs.
 
